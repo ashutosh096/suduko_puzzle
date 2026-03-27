@@ -70,3 +70,4 @@ GUI version using OpenCV to visualize the board.
 Input Sudoku puzzles from images using OCR.
 Detect multiple solutions and print all of them.
 Interactive input where users can fill the board before solving
+![image alt](https://github.com/ashutosh096/suduko_puzzle/blob/3bfd368140dd8fca9a6aa966c92fab01f8163073/Screenshot%202026-03-28%20013740.png)
